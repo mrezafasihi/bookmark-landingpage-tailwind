@@ -12,11 +12,11 @@ function Hero() {
         />
       </div>
       <div className="md:w-1/2 flex flex-col md:ml-[3%] ">
-        <h2 className="font-bold text-3xl text-center md:text-left ">
+        <h2 className="font-bold text-3xl text-center md:text-left md:text-6xl ">
           {" "}
           A Simple Bookmark Manager
         </h2>
-        <p className="mx-auto text-center max-w-md md:text-left md:mx-0 mdg:text-2xl text-gray-400 mt-[2%]">
+        <p className="mx-auto text-center max-w-md md:text-left md:mx-0 md:text-2xl text-gray-400 mt-[2%]">
           A clean and simple interface to organize your favourite websites. Open
           a new browser tab and see your sites load instantly. Try it for free.
         </p>
